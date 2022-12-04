@@ -2,7 +2,7 @@
 
 aoc: https://adventofcode.com/2022
 
-Just my solutions for the advent of code 2022.
+My solutions for the advent of code 2022.
 Nothing too special or impressive,
 just something i felt like doing:
 
