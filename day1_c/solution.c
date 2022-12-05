@@ -30,7 +30,7 @@ int main(int argc, char** argv){
       } else {
 	sum += cur;
 	cur = 0;
-      }
+	}
     }
   }
   for(int i = 0; i<n;i++) m+=max[i];
